@@ -9,3 +9,4 @@ relevant for the analisys will not be excluded and there will be two resultant c
 concatenated data of the selected days.
 
 ### extraction_api_datalab.py
+Scraping from a figurative shopping website that also simulates twitter responses.
